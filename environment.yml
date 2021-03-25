@@ -13,3 +13,4 @@ dependencies:
   - dask
   - plotly
   - scikit-learn
+  - seaborn
