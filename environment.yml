@@ -11,3 +11,6 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - plotly
+  - scikit-learn
+  - japanize_matplotlib
