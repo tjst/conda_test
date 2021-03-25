@@ -13,4 +13,3 @@ dependencies:
   - dask
   - plotly
   - scikit-learn
-  - japanize_matplotlib
